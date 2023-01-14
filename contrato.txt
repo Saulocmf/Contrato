@@ -4,16 +4,16 @@ A DUREE INDETERMINEE
 INDEFINITE TERM
 EMPLOYMENT CONTRACT
 ENTRE :
-DVP SOLAR FRANCE, société par actions simplifiée, immatriculée au registre de commerce et d’industrie de Paris sous le numéro n° SIRET 895 027 175 000 10, domiciliée auprès de la société DIGIDOM 10, rue de Penthièvre, 75008 PARIS représentée par Laurent BAGUE dûment habilité aux fins de conclure les présentes,
+DVP SOLAR FRANCE, société par actions simplifiée, immatriculée au registre de commerce et d’industrie de Paris sous le numéro n° SIRET 895 027 175 00010, domiciliée auprès de la société DIGIDOM 10, rue de Penthièvre, 75008 PARIS représentée par Laurent BAGUE dûment habilité aux fins de conclure les présentes,
 Ci-après « la Société »
 ou « l’Employeur »
 D'une part,
 ET :
 Monsieur Saulo FARIA, né le 28 Septembre 1981, de nationalité Canadienne, n° de sécurité sociale 1 81 09 99 416 154 24
-Ci-après « le salarié »
+Ci-après « le Salarié »
 D’autre part,
-La Société et le salarié seront ci-après dénommées ensemble « les Parties ».
-BETWEEN :
+La Société et le Salarié seront ci-après dénommées ensemble « les Parties ».
+BETWEEN:
 DVP SOLAR FRANCE, a simplified joint stock company, registered in the Paris Trade and Industry Register under SIRET No. 895 027 175 000 10, domiciled at DIGIDOM 10, rue de Penthièvre, 75008 PARIS represented by Laurent BAGUE duly authorised for the purposes of concluding the present contract,
 Hereinafter "the Company
 or "the Employer
@@ -25,132 +25,158 @@ On the other hand,
 The Company and the Employee will hereinafter be referred to together as "the Parties".
 IL A ETE CONVENU CE QUI SUIT
 IT HAS BEEN AGREED AS FOLLOWS
+Préambule:
+Il est rappelé que :
+- Le 03/09/2021, le Salarié a validé son visa de long séjour valant titre de séjour mention étudiant.
+Preamble:
+It is recalled that:
+- On 03/09/2021, the Employee validated his long stay visa with the mention student.
+2
+- Le Salarié a obtenu un Master en 2022.
+- Le 07/06/2022, le Salarié a sollicité le renouvellement de son titre de séjour étudiant. Il a été informé que sa demande était toujours en cours d’instruction. Il a reçu une attestation autorisant sa présence en France jusqu’au 20/01/2023.
+- Par email du 12/01/2023, la Société était informée par la Préfecture du Rhône que le Salarié avait obtenu le renouvellement de son titre de séjour étudiant et qu’il était autorisé à travailler en statut étudiant pour une durée annuelle de 964 heures sans autorisation de travail.
+- Le 3/10/2022, le Salarié a déposé un dossier en vue d’obtenir une « carte de séjour ou d'autorisation provisoire de séjour "recherche d'emploi ou création d'entreprise" pour les titulaires d'une carte de séjour portant la mention étudiant ».
+- Le 09/01/2023, la Société a déposé en ligne une demande d’autorisation provisoire de travail.
+Il a donc été convenu ce qui suit :
+- The Employee obtained a Master's degree in 2022.
+- On 07/06/2022, the Employee requested the renewal of his student residence permit. He was informed that his application was still being processed. He received a certificate authorizing his presence in France until 20/01/2023.
+- By email dated 12/01/2023, the Company was informed by the Rhône Prefecture that the Employee had obtained the renewal of his student residence permit and that he was authorized to work under student status for an annual period of 964 hours without a work permit.
+- On 3/10/2022, the Employee filed an application for a "residence permit or temporary residence permit "seeking employment or creating a business" for holders of a residence permit with the mention student".
+- On 09/01/2023, the Company filed online an application for a provisional work permit.
+Thus, it has been agreed as follows:
 Article 1 – Engagement
-A compter du 16 Janvier 2023, le Salarié est embauché par contrat à durée indéterminée en qualité de cartographe Systèmes d’Information Géographique (SIG).
+A compter du 16 Janvier 2023, le Salarié est embauché par contrat à durée indéterminée en qualité de Cartographe Systèmes d’Information Géographique (SIG).
+Le Salarié qui accepte cet engagement déclare formellement n'être lié à aucune autre entreprise et être libre de tout engagement envers son précédent employeur.
+La déclaration préalable à l'embauche a été effectuée à l'URSSAF.
 Article 1 – Hiring
 As of January 16th 2023, the Employee is employed under a indefinite term contract as a Geographic Information Systems Cartographer.
-2
-Le salarié qui accepte cet engagement déclare formellement n'être liée à aucune autre entreprise et être libre de tout engagement envers son précédent employeur.
-La déclaration préalable à l'embauche a été effectuée à l'URSSAF.
-Dans le cadre de l'embauche et de l'exécution du contrat de travail, la Société est amenée à collecter, utiliser et traiter des données personnelles du salarié, afin de remplir ses obligations en matière de gestion du personnel et de déclarations aux organismes sociaux.
-Les données personnelles collectées ne seront conservées que dans la mesure de ce qui est nécessaire à l'exécution du contrat de travail et à l'accomplissement par la Société des obligations qui lui incombent et dans la limite des délais de prescription applicables en matière sociale.
-En application des dispositions législatives et réglementaires en vigueur et des articles 12 à 23 du Règlement Général sur la Protection des Données (RGPD) du 27 avril 2016 , le salarié bénéficie de droits d'accès, de rectification, de portabilité et d'effacement de ses données ou de limitation de leur utilisation.
-Le salarié peut également, pour des motifs légitimes, s'opposer à leur traitement.
-The Employee who accepts his hiring formally declares that she is not bound to any other company and that she is free of any commitment to his previous employer.
+The Employee who accepts his hiring formally declares that he is not bound to any other company and that he is free of any commitment to his previous employer.
 The pre-employment declaration has been made to the URSSAF.
+3
+Dans le cadre de l'embauche et de l'exécution du contrat de travail, la Société est amenée à collecter, utiliser et traiter des données personnelles du Salarié, afin de remplir ses obligations en matière de gestion du personnel et de déclarations aux organismes sociaux.
+Les données personnelles collectées ne seront conservées que dans la mesure de ce qui est nécessaire à l'exécution du contrat de travail et à l'accomplissement par la Société des obligations qui lui incombent et dans la limite des délais de prescription applicables en matière sociale.
+En application des dispositions législatives et réglementaires en vigueur et des articles 12 à 23 du Règlement Général sur la Protection des Données (RGPD) du 27 avril 2016 , le Salarié bénéficie de droits d'accès, de rectification, de portabilité et d'effacement de ses données ou de limitation de leur utilisation.
+Le Salarié peut également, pour des motifs légitimes, s'opposer à leur traitement.
 In the context of the hiring and the execution of the employment contract, the Company is required to collect, use and process the Employee's personal data in order to fulfil its obligations in terms of personnel management and declarations to social security institutions.
 The personal data collected will only be kept to the extent necessary for the performance of the employment contract and the fulfilment by the Company of its obligations and within the limitation periods applicable in social security matters.
 Pursuant to the legislative and regulatory provisions in force and Articles 12 to 23 of the General Data Protection Regulation (GDPR) of 27th April 2016, the Employee has the right to access, rectification, portability and deletion of his data or to limit their use.
 The Employee may also, for legitimate reasons, object to their processing.
 Article 2 – Fonctions et activités
 Le salarié est Cadre, niveau 3.1, coefficient 170 selon la convention collective « Bureau d’études techniques » ((dit : Syntec) JO 3018, IDCC 1486) applicable à l’entreprise.
+Le Salarié exerce les fonctions qui comprennent notamment les activités et missions suivantes : • Mise en place d’une base de données SIG solaire pour la France sous ArcGIS/QGis • Identification et évaluation d’opportunités de projets à large échelle en prenant en compte la faisabilité technique des projets, • Développement de la solution Vmap
 Article 2 - Duties and classification
 The Employee is employed as Manager (“Cadre”), level 3.1, coefficient 170 according to the collective bargaining agreement “Technical design offices” (referred to as Syntec ( JO 3018, IDCC 1486 applicable to the company.
-3
-Le salarié exerce les fonctions qui comprennent notamment les activités et missions suivantes : • Mise en place d’une base de données SIG solaire pour la France sous ArcGIS/QGis • Identification et évaluation d’opportunités de projets à large échelle en prenant en compte la faisabilité technique des projets, • Développement de la solution Vmap • Gestion de la base de données SIG (recherche, préparation, organisation et mise à jour), • Préparation de cartes et rapports pour l’équipe projet.
-Le salarié accepte ses fonctions et missions telles qu’elles sont définies ci-dessus et reconnaît qu’elles peuvent être évolutives.
-Le salarié reconnaît qu’elle pourra être amenée à exercer son activité en dehors des spécifications ci-dessus énoncées.
-De façon générale, le salarié s’acquittera de toute mission qui lui sera confiée et qui entrera dans le cadre de ses attributions.
-Le salarié exercera ses fonctions sous le contrôle et la surveillance de Laurent BAGUE ou de toute autre personne désignée par la Société.
-Le salarié s’oblige à tenir informé son supérieur hiérarchique, de manière régulière et continue, de ses activités et à soumettre à son autorisation préalable toute mesure importante qui lui paraîtrait utile ou nécessaire d’adopter.
-The employee covers in particular the following activities and missions:
+The Employee covers in particular the following activities and missions:
 • Establishment of a solar GIS database for France using ArcGIS,QGis
 • Identification and evaluation of large-scale project opportunities taking into account the technical feasibility of the projects,
+4
+• Gestion de la base de données SIG (recherche, préparation, organisation et mise à jour), • Préparation de cartes et rapports pour l’équipe projet.
+Le Salarié accepte ses fonctions et missions telles qu’elles sont définies ci-dessus et reconnaît qu’elles peuvent être évolutives.
+Le Salarié reconnaît qu’il pourra être amené à exercer son activité en dehors des spécifications ci-dessus énoncées.
+De façon générale, le Salarié s’acquittera de toute mission qui lui sera confiée et qui entrera dans le cadre de ses attributions.
+Le Salarié exercera ses fonctions sous le contrôle et la surveillance de Laurent BAGUE ou de toute autre personne désignée par la Société.
+Le Salarié s’oblige à tenir informé son supérieur hiérarchique, de manière régulière et continue, de ses activités et à soumettre à son autorisation préalable toute mesure importante qui lui paraîtrait utile ou nécessaire d’adopter.
 • Development of Vmap solution
 • Management of the GIS database (research, preparation, organisation and updating),
 • Preparation of maps & reports for the project team.
 The Employee accepts his duties such as defined in the terms and conditions set out above and acknowledges that they are subject to change.
-The Employee acknowledges that she may be called to perform duties that are out of the above-mentioned scope.
+The Employee acknowledges that he may be called to perform duties that are out of the above-mentioned scope.
 In general, the Employee shall perform all duties which are conferred on his and which shall enter into the definition of his duties.
 The Employee shall perform his duties under the direction and supervision of Laurent BAGUE or any person designated by the Company.
-The Employee undertakes to regularly and continuously inform him of his activities and to obtain his authorization for all important measures which she deems useful to carry out.
-4
+The Employee undertakes to regularly and continuously inform him of his activities and to obtain his authorization for all important measures which he deems useful to carry out.
 Article 3 – Période d’essai
 L’engagement ne deviendra définitif qu'à l'expiration d'une période d'essai de quatre (4) mois.
-Pendant cette période, l'entreprise pourra mettre fin au contrat sans indemnité, moyennant le respect du délai de prévenance fixé par le code du travail, dont la durée augmente en fonction de l'ancienneté dans l'entreprise, à savoir : - 24 heures si la durée de présence dans l'entreprise est inférieure à 8 jours ; - 48 heures de 8 jours à 1 mois de présence dans l'entreprise ; - 2 semaines entre 1 mois et 3 mois de présence dans l'entreprise ; - 1 mois au-delà de 3 mois de présence dans l'entreprise. Si le salarié souhaite rompre la période d'essai, elle devra prévenir l'entreprise dans les conditions fixées par le code du travail, à savoir :
-- 24 heures à l'avance si la durée de présence dans l'entreprise est inférieure à 8 jours, - 48 heures à l'avance au-delà.
-La période d’essai s’entendant comme une période de travail effectif, toute suspension du contrat qui se produirait pendant la période d'essai (comme notamment maladie, congés, .....) prolongerait d'autant la durée de cette période.
-Cette période d'essai pourra faire l'objet d'un renouvellement pour une durée de quatre (4) mois dans les conditions prévues à l'article L. 1221-21 du code du travail et à l'article 7 de la Convention Collective applicable.
+Pendant cette période, l'entreprise pourra mettre fin au contrat sans indemnité, moyennant le respect du délai de prévenance fixé par le code du travail, dont la durée augmente en fonction de l'ancienneté dans l'entreprise, à savoir : - 24 heures si la durée de présence dans l'entreprise est inférieure à 8 jours ;
 Article 3 – Trial period
 This employment will definitely become effective after a 4-month trial period.
 During this period, the company may terminate the contract without compensation, subject to compliance with the notice period set out in the Labour Code, the length of which increases according to seniority in the company, namely:
 - 24 hours if the length of presence in the company is less than 8 days ;
+5
+- 48 heures de 8 jours à 1 mois de présence dans l'entreprise ; - 2 semaines entre 1 mois et 3 mois de présence dans l'entreprise ; - 1 mois au-delà de 3 mois de présence dans l'entreprise. Si le Salarié souhaite rompre la période d'essai, il devra prévenir l'entreprise dans les conditions fixées par le code du travail, à savoir :
+- 24 heures à l'avance si la durée de présence dans l'entreprise est inférieure à 8 jours, - 48 heures à l'avance au-delà.
+La période d’essai s’entendant comme une période de travail effectif, toute suspension du contrat qui se produirait pendant la période d'essai (comme notamment maladie, congés, .....) prolongerait d'autant la durée de cette période.
+Cette période d'essai pourra faire l'objet d'un renouvellement pour une durée de quatre (4) mois dans les conditions prévues à l'article L. 1221-21 du code du travail et à l'article 7 de la Convention Collective applicable.
 - 48 hours from 8 days to 1 month of presence in the company;
 - 2 weeks between 1 month and 3 months of presence in the company;
 - 1 month beyond 3 months of presence in the company.
-If the Employee wishes to terminate the trial period, she must notify the company in accordance with the conditions set out in the Labour Code, namely:
+If the Employee wishes to terminate the trial period, he must notify the company in accordance with the conditions set out in the Labour Code, namely:
 - 24 hours in advance if the presence in the company is less than 8 days,
 - 48 hours in advance if it is more.
 As the trial period is understood to be a period of actual work, any suspension of the contract that occurs during the trial period (such as illness, leave, .....) shall extend the duration of this period accordingly.
 This trial period may be renewed for a period of four (4) months under the conditions provided for in Article L. 1221-21 of the Labour Code and Article 7 of the applicable Collective Bargaining Agreement.
-5
 Article 4 - Durée du travail
-4.1 Compte tenu de la nature des fonctions exercées par le salarié, de ses larges responsabilités, du degré important d’autonomie dont elle bénéficie dans l’organisation et la gestion de son emploi du temps, les Parties reconnaissent que le temps de travail du salarié ne peut être prédéterminé et que l’exercice de ses attributions est incompatible avec une mesure horaire de son temps de travail.
-Les Parties conviennent, dès lors, conformément à la Convention Collective et aux articles L. 3121-63 et L. 3121-58 et suivants du code du travail, que le salarié relève de la catégorie des cadres autonomes et sera soumise à un forfait annuel exprimé en jours.
-4.2 Dans le cadre de ce forfait annuel en jours, la durée du travail du salarié est décomptée en jours sur l’année civile, indépendamment du nombre d’heures travaillées.
+4.1 Compte tenu de son statut d’étudiant étranger, qui l’autorise à travailler 964 heures par an, les Parties conviennent que le Salarié travaillera 35 heures par semaine, en application des dispositions légales en matière de temps de travail et conformément à l'horaire collectif mis en place au sein de la Société. Le Salarié pourra être amené à effectuer des heures supplémentaires à la demande expresse de son supérieur hiérarchique, dans le respect des dispositions légales.
+Article 4 – Working time
+4.1 Given his status as a foreign student, which authorizes him to work 964 hours per year, the Parties agree that the Employee will be required to work 35 hours per week, in accordance with the legal provisions on working hours and in accordance with the collective working hours set up within the Company. The Employee may be required to work overtime at the express request of his line manager, in accordance with legal provisions.
+6
+Le Salarié travaillera dans la limite de 964 heures par an jusqu’à la finalisation de son changement de statut étudiant à salarié et de l’obtention d’une autorisation de travail.
+The Employee will work up to a maximum of 964 hours per year until the change from student to employee status is finalized and a work permit is obtained.
+4.2. Dès la finalisation de son changement de statut étudiant à salarié et de l’obtention d’une autorisation de travail, la durée du travail du Salarié sera régie par les dispositions suivantes.
+Compte tenu de la nature des fonctions exercées par le Salarié, de ses larges responsabilités, du degré important d’autonomie dont il bénéficie dans l’organisation et la gestion de son emploi du temps, les Parties reconnaissent que le temps de travail du Salarié ne peut être prédéterminé et que l’exercice de ses attributions est incompatible avec une mesure horaire de son temps de travail.
+Les Parties conviennent, dès lors, conformément à la Convention Collective et aux articles L. 3121-63 et L. 3121-58 et suivants du code du travail, que le Salarié relève de la catégorie des cadres autonomes et sera soumis à un forfait annuel exprimé en jours.
+Dans le cadre de ce forfait annuel en jours, la durée du travail du Salarié est décomptée en jours sur l’année civile, indépendamment du nombre d’heures travaillées.
 Le nombre de jours effectivement travaillés est fixé à 218 par an.
-En contrepartie des 218 jours de travail annuel, le salarié bénéficie de jours de repos calculés chaque année de la manière suivante :
+En contrepartie des 218 jours de travail annuel, le Salarié bénéficie de jours de repos calculés chaque année de la manière suivante :
 Nombre de jours de repos = nombre de jours dans l’année civile -
 218 jours du Forfait Annuel
 - nombre de samedis et dimanches dans l’année civile
-- jours fériés (sauf les jours fériés tombant un samedi ou dimanche)
-- 25 jours de congés payés.
-Article 4 – Working time
-4.1 Given the nature of the Employee's duties, his broad responsibilities, and the significant degree of autonomy she enjoys in the organisation and management of his time, the Parties acknowledge that the Employee's working time cannot be predetermined and that the performance of his duties is incompatible with an hourly measurement of his working time.
+4.2. Upon finalization of the change from student to employee status and obtaining a work permit, the Employee's working hours will be governed by the following provisions.
+Given the nature of the Employee's duties, his broad responsibilities, and the significant degree of autonomy he enjoys in the organisation and management of his time, the Parties acknowledge that the Employee's working time cannot be predetermined and that the performance of his duties is incompatible with an hourly measurement of his working time.
 The Parties therefore agree, in accordance with the Collective Bargaining Agreement and Articles L. 3121-63 and L. 3121-58 et seq. of the Labour Code, that the Employee belongs to the category of autonomous managers and will be subject to a working time calculated on the basis of annual working days.
-4.2 Within the framework of this annual fixed number of working days, the Employee's working time is counted in days over the calendar year, regardless of the number of hours she may have worked.
+Within the framework of this annual fixed number of working days, the Employee's working time is counted in days over the calendar year, regardless of the number of hours he may have worked.
 The number of days effectively worked is fixed at 218 per year.
 In consideration of the 218 days of annual work, the Employee shall benefit from rest days calculated each year as follows:
 Number of days off = number of days in the calendar year
 218 days of the Annual Package
+7
+- jours fériés (sauf les jours fériés tombant un samedi ou dimanche)
+- 25 jours de congés payés.
+Les jours de repos s’acquièrent au cours de l’année au fur et à mesure des jours travaillés.
+Le repos quotidien minimum de 11 heures consécutives et le repos hebdomadaire de 35 heures (24 heures + 11 heures) minimum consécutives seront respectés. Si le Salarié constate qu’il n’est pas en mesure de respecter ces durées minimales de repos, il avertit sans délai la Société.
+L’effectivité du respect par le Salarié de ces durées minimales de repos implique pour ce dernier une obligation de déconnexion des outils de communication à distance pendant ces périodes.
+A la fin de chaque mois, le Salarié remet à l’Employeur, sous la responsabilité de ce dernier, un document dûment daté et signé dans lequel il récapitule les jours travaillés et non-travaillés en qualifiant ces derniers (jour férié, congé, jour de repos, etc.).
+Chaque année, le Salarié bénéficie de deux entretiens avec son supérieur hiérarchique chargé d’assurer le suivi régulier de l’organisation et de la charge de travail du Salarié, entretien au cours duquel sont évoqués l’organisation du travail, la charge de travail, l’amplitude des journées de travail et l’équilibre vie professionnelle-vie personnelle du Salarié.
+L’objectif de cet entretien est de vérifier l’adéquation de la charge de travail au nombre de jours prévus par la convention de forfait et de mettre en oeuvre les actions correctives en cas d’inadéquation avérée.
+Dans un tel cas, l’Employeur adressera des propositions d’actions correctives au Salarié.
 - number of Saturdays and Sundays in the calendar year
 - public holidays (except public holidays falling on a Saturday or Sunday)
 - 25 days of paid holiday.
-6
-Les jours de repos s’acquièrent au cours de l’année au fur et à mesure des jours travaillés.
-4.3 Le repos quotidien minimum de 11 heures consécutives et le repos hebdomadaire de 35 heures (24 heures + 11 heures) minimum consécutives seront respectés. Si le salarié constate qu’elle n’est pas en mesure de respecter ces durées minimales de repos, elle avertit sans délai la Société.
-L’effectivité du respect par le salarié de ces durées minimales de repos implique pour cette dernière une obligation de déconnexion des outils de communication à distance pendant ces périodes.
-4.4 A la fin de chaque mois, le salarié remet à l’Employeur, sous la responsabilité de ce dernier, un document dûment daté et signé dans lequel elle récapitule les jours travaillés et non-travaillés en qualifiant ces derniers (jour férié, congé, jour de repos, etc.).
-4.5 Chaque année, le salarié bénéficie de deux entretiens avec son supérieur hiérarchique chargé d’assurer le suivi régulier de l’organisation et de la charge de travail du salarié, entretien au cours duquel sont évoqués l’organisation du travail, la charge de travail, l’amplitude des journées de travail et l’équilibre vie professionnelle-vie personnelle du salarié.
-L’objectif de cet entretien est de vérifier l’adéquation de la charge de travail au nombre de jours prévus par la convention de forfait et de mettre en oeuvre les actions correctives en cas d’inadéquation avérée.
-Dans un tel cas, l’Employeur adressera des propositions d’actions correctives au salarié. Les Parties donneront par la suite leur appréciation sur l’efficacité des actions
 The days off are earned during the year in proportion to the days worked.
-4.3 The minimum daily rest period of 11 consecutive hours and the minimum weekly rest period of 35 consecutive hours (24 hours + 11 hours) shall be respected. If the Employee finds that she is unable to comply with these minimum rest periods, she shall notify the Company immediately.
+The minimum daily rest period of 11 consecutive hours and the minimum weekly rest period of 35 consecutive hours (24 hours + 11 hours) shall be respected. If the Employee finds that he is unable to comply with these minimum rest periods, he shall notify the Company immediately.
 The effectiveness of the Employee's compliance with these minimum rest periods implies an obligation for the Employee to disconnect from remote communication tools during these periods.
-4.4 At the end of each month, the Employee shall submit to the Employer, under the Employer's responsibility, a duly dated and signed document in which she shall summarize the days worked and not worked, qualifying the latter (holiday, leave, rest day, etc.).
-4.5 Each year, the Employee shall benefit from two interviews with his superior responsible for ensuring regular monitoring of the organisation and workload of the Employee, during which the organisation of the work, the workload, the amplitude of the working day and the balance between the Employee's professional and personal life shall be discussed.
+At the end of each month, the Employee shall submit to the Employer, under the Employer's responsibility, a duly dated and signed document in which he shall summarize the days worked and not worked, qualifying the latter (holiday, leave, rest day, etc.).
+Each year, the Employee shall benefit from two interviews with his superior responsible for ensuring regular monitoring of the organisation and workload of the Employee, during which the organisation of the work, the workload, the amplitude of the working day and the balance between the Employee's professional and personal life shall be discussed.
 The purpose of this interview is to verify the adequacy of the workload to the number of days provided for in the fixed price agreement and to implement corrective actions in the event of a proven inadequacy.
-In such a case, the Employer will send proposals for corrective action to the Employee. The Parties will then give their
-7
-correctives mises en oeuvre lors d’un autre entretien qui devra se tenir dans les trois mois qui suivent le premier.
-Outre ces entretiens, le salarié peut demander à être reçu par son supérieur hiérarchique en cas de difficultés rencontrées, notamment en cas de surcharge de travail.
-assessment of the effectiveness of the corrective actions implemented at an additional meeting to be held within three months of the first.
+8
+Les Parties donneront par la suite leur appréciation sur l’efficacité des actions correctives mises en oeuvre lors d’un autre entretien qui devra se tenir dans les trois mois qui suivent le premier.
+Outre ces entretiens, le Salarié peut demander à être reçu par son supérieur hiérarchique en cas de difficultés rencontrées, notamment en cas de surcharge de travail.
+In such a case, the Employer will send proposals for corrective action to the Employee. The Parties will then give their assessment of the effectiveness of the corrective actions implemented at an additional meeting to be held within three months of the first.
 In addition to these meetings, the Employee may ask to be seen by his line manager in the event of difficulties encountered, particularly in the event of overwork.
 Article 5 - Rémunération
-En contrepartie de sa prestation de travail, le salarié perçoit un salaire brut annuel fixe de 45.000,00 € qui lui sera payé en 12 mensualités égales.
-En sus de sa rémunération forfaitaire, le salarié pourra prétendre à une rémunération variable d’un montant maximum de 4.500,00 € basée sur l’atteinte d’objectifs fixés pour une année (allant du 1er janvier au 31 décembre) et payable par année.
-En cas d’année incomplète, la rémunération variable du salarié est évalué prorata temporis.
-Les objectifs de la rémunération variable seront précisés dans un plan annuel d’objectifs transmis en début de chaque année au salarié.
+En contrepartie de sa prestation de travail, le Salarié perçoit un salaire brut annuel fixe de 45.000,00 € qui lui sera payé en 12 mensualités égales.
+En sus de sa rémunération forfaitaire, le Salarié pourra prétendre à une rémunération variable d’un montant maximum de 4.500,00 € basée sur l’atteinte d’objectifs fixés pour une année (allant du 1er janvier au 31 décembre) et payable par année.
+En cas d’année incomplète, la rémunération variable du Salarié est évalué prorata temporis.
+Les objectifs de la rémunération variable seront précisés dans un plan annuel d’objectifs transmis en début de chaque année au Salarié.
 Article 5 – Remuneration
 In consideration of his work, the Employee shall receive a fixed annual gross salary of €45.000.00 to be paid in 12 equal monthly instalments.
 In addition to his fixed remuneration, the Employee may receive a variable remuneration of a maximum amount of € 4,500 based on the achievement of objectives fixed for a year (from 1st January to 31st December) and payable per year.
 In the event of an incomplete year, the Employee's variable remuneration is assessed prorata temporis.
 The objectives of the variable remuneration are specified in a yearly plan of objectives submitted at the beginning of each year to the Employee.
 Article 6 - Télétravail
-Les Parties conviennent expressément que le salarié exerce ses fonctions dans le cadre d’un télétravail pendulaire alternant des périodes de travail à domicile, en déplacement et dans les locaux de la Société à Lyon.
+Les Parties conviennent expressément que le Salarié exerce ses fonctions dans le cadre d’un télétravail pendulaire alternant des périodes de travail à domicile, en déplacement et dans les locaux de la Société à Lyon.
 Article 6 - Telework
 The Parties expressly agree that the Employee shall perform his duties in the context of a pendulous telework alternating periods of work at home, on business trips and in the Company's premises in Lyon
-8
-Les modalités particulières du télétravail adaptées à la situation du salarié sont les suivantes.
-6.1 Le télétravail sera effectué au domicile habituel du salarié situé 5 Bis Cours de la République, 69100 VILLEURBANNE Lyon et auquel sera affecté un équipement nécessaire à une activité professionnelle à distance.
-En cas de changement de domicile, le salarié transmettra sa nouvelle adresse spontanément à la Société.
-Le salarié remettra à la Société une attestation sur la conformité des installations électriques.
+9
+Les modalités particulières du télétravail adaptées à la situation du Salarié sont les suivantes.
+6.1 Le télétravail sera effectué au domicile habituel du Salarié situé 5 Bis Cours de la République, 69100 VILLEURBANNE et auquel sera affecté un équipement nécessaire à une activité professionnelle à distance.
+En cas de changement de domicile, le Salarié transmettra sa nouvelle adresse spontanément à la Société.
+Le Salarié remettra à la Société une attestation sur la conformité des installations électriques.
 6.2 Dans le cadre de ce mode d’organisation du travail, le Salarié s’engage à :
 - participer à toutes les réunions téléphoniques et visioconférences organisées par son Employeur ;
-- être présente à toutes les réunions de travail organisées par sa hiérarchie dans les locaux de l’Employeur.
-Lorsque le salarié est en télétravail, l’Employeur peut la contacter à son domicile de 8 heures à 18 heures.
-Le salarié assure lui-même l’équilibre, au sein de son domicile, entre l’accomplissement de ses tâches professionnelles et sa vie personnelle.
-6.3 La Société mettra à disposition du salarié les équipements suivants :
+- être présent à toutes les réunions de travail organisées par sa hiérarchie dans les locaux de l’Employeur.
+Lorsque le Salarié est en télétravail, l’Employeur peut le contacter à son domicile de 8 heures à 18 heures.
+Le Salarié assure lui-même l’équilibre, au sein de son domicile, entre l’accomplissement de ses tâches professionnelles et sa vie personnelle.
+6.3 La Société mettra à disposition du Salarié les équipements suivants :
 - Ordinateur portable,
 - Téléphone portable,
 Ces équipements resteront la propriété de la Société et devront être restitués dès la fin du contrat de travail, à première demande.
@@ -158,147 +184,143 @@ The specific telework arrangements adapted to the Employee's situation are as fo
 6.1 The telework will be carried out at the Employee's usual residence located at 5 Bis Cours de la République, 69100 VILLEURBANNE and to which equipment necessary for remote professional activity will be assigned.
 In the event of a change of address, the Employee will inform the Company of his new address without delay.
 The Employee will provide the Company with a certificate of compliance of the electrical installations.
-6.2 In the context of this work organisation, the Employee undertakes to :
+6.2 In the context of this work organisation, the Employee undertakes to:
 - participate in all telephone meetings and video conferences organised by his Employer;
 - be present at all work meetings organised by his hierarchy at the Employer's premises.
-When the Employee is teleworking, the Employer may contact his at his home from 8 a.m. to 6 p.m.
-The Employee herself shall ensure the balance, within his home, between the performance of his professional tasks and his personal life.
+When the Employee is teleworking, the Employer may contact him at his home from 8 a.m. to 6 p.m.
+The Employee himself shall ensure the balance, within his home, between the performance of his professional tasks and his personal life.
 6.3 The Company will provide the Employee with the following equipment:
 - Laptop computer,
 - Mobile phone,
 This equipment will remain the property of the Company and must be returned at the
-9
-Le salarié est tenu de respecter toutes les consignes de sécurité et de prendre soin des équipements qui lui sont confiés.
-En cas de panne ou de mauvais fonctionnement des équipements de travail, le salarié doit en aviser immédiatement la Société par tout moyen.
-6.4 Le salarié est tenu de laisser l'accès de son domicile aux intervenants techniques pouvant avoir à vérifier ou à entretenir le matériel ou l'équipement du travail confié.
-Ces interventions sur les équipements de télétravail ne s'effectueront au domicile du salarié qu'après son accord, la Société prévenant le salarié par écrit dans un délai suffisant avant l’intervention.
-6.5 Dans le respect des prescriptions de la CNIL et du Règlement Général du Traitement des Données Personnelles (RGPD) en vigueur depuis le 25 mai 2018, le salarié est tenu d’assurer la plus stricte confidentialité des données auxquelles elle a accès ou qu’elle est amenées à traiter dans le cadre de son travail.
-Le salarié est également informé qu’il lui est strictement interdit d’utiliser les moyens de communication mis à sa disposition à des fins professionnelles pour rassembler, stocker ou diffuser des données ou informations susceptibles d’être considérées illégales.
+10
+Le Salarié est tenu de respecter toutes les consignes de sécurité et de prendre soin des équipements qui lui sont confiés.
+En cas de panne ou de mauvais fonctionnement des équipements de travail, le Salarié doit en aviser immédiatement la Société par tout moyen.
+6.4 Le Salarié est tenu de laisser l'accès de son domicile aux intervenants techniques pouvant avoir à vérifier ou à entretenir le matériel ou l'équipement du travail confié.
+Ces interventions sur les équipements de télétravail ne s'effectueront au domicile du Salarié qu'après son accord, la Société prévenant le Salarié par écrit dans un délai suffisant avant l’intervention.
+6.5 Dans le respect des prescriptions de la CNIL et du Règlement Général du Traitement des Données Personnelles (RGPD) en vigueur depuis le 25 mai 2018, le Salarié est tenu d’assurer la plus stricte confidentialité des données auxquelles il a accès ou qu’il est amené à traiter dans le cadre de son travail.
+Le Salarié est également informé qu’il lui est strictement interdit d’utiliser les moyens de communication mis à sa disposition à des fins professionnelles pour rassembler, stocker ou diffuser des données ou informations susceptibles d’être considérées illégales.
 Toute violation de ces consignes peut engendrer une sanction, pouvant aller, le cas échéant, jusqu'au licenciement.
-6.6 Les frais engagés par le salarié pour exercer son activité en télétravail sont remboursés par la Société sur la base du coût réel engagé et sur présentation de
+6.6 Les frais engagés par le Salarié pour exercer son activité en télétravail sont remboursés par la Société sur la base du coût réel engagé et sur présentation de
 end of the employment contract, on first request.
-The Employee is required to comply with all safety instructions and to take care of the equipment entrusted to her.
+The Employee is required to comply with all safety instructions and to take care of the equipment entrusted to him.
 In the event of breakdown or malfunction of the work equipment, the Employee must immediately notify the Company by any means.
 6.4 The Employee is required to allow access to his home to technical personnel who may need to check or maintain the material or equipment of the work assigned.
 These interventions on telework equipment will only be carried out at the Employee's home after his agreement, with the Company giving the Employee sufficient notice in writing before the intervention.
-6.5 In compliance with the provisions of the CNIL and the General Regulation on the Processing of Personal Data (RGPD) in force since 25 May 2018, the Employee is required to ensure the strictest confidentiality of the data to which she has access or which she is required to process in the course of his work.
-The Employee is also informed that it is strictly forbidden to use the means of communication made available to his for professional purposes to gather, store or disseminate data or information that may be considered illegal.
+6.5 In compliance with the provisions of the CNIL and the General Regulation on the Processing of Personal Data (RGPD) in force since 25 May 2018, the Employee is required to ensure the strictest confidentiality of the data to which he has access or which he is required to process in the course of his work.
+The Employee is also informed that it is strictly forbidden to use the means of communication made available to him for professional purposes to gather, store or disseminate data or information that may be considered illegal.
 Any violation of these instructions may result in a sanction, which may include dismissal.
-6.6 The expenses incurred by the Employee in carrying out his teleworking activity shall be reimbursed by the Company on the basis of the actual cost incurred and on
-10
+6.6 The expenses incurred by the Employee in carrying out his teleworking activity shall be reimbursed by the Company on the basis
+11
 justificatifs appropriés après accord du responsable.
-6.7 Le salarié est prioritaire pour occuper ou reprendre un poste sans télétravail qui correspond à ses qualifications et compétences professionnelles, sous réserve de l'application des règles relatives aux priorités d'embauche ou de réembauche (temps partiel, priorité de réembauche après licenciement économique, etc.).
-L'entreprise s'engage, dans ce cas, à porter à sa connaissance tout poste disponible de cette nature.
+6.7 Le Salarié est prioritaire pour occuper ou reprendre un poste sans télétravail qui correspond à ses qualifications et compétences professionnelles, sous réserve de l'application des règles relatives aux priorités d'embauche ou de réembauche (temps partiel, priorité de réembauche après licenciement économique, etc.).
+La Société s'engage, dans ce cas, à porter à sa connaissance tout poste disponible de cette nature.
 6.8 Les Parties pourront convenir d’un commun accord de mettre fin à la situation de télétravail dans le respect d’un délai suffisant.
-presentation of appropriate supporting documents after manager’s approval.
+of the actual cost incurred and on presentation of appropriate supporting documents after manager’s approval.
 6.7 The Employee shall have priority to take up or return to a non-teleworking position that corresponds to his professional qualifications and skills, subject to the application of the rules relating to hiring or re-employment priorities (part-time work, re-employment priority after redundancy, etc).
-The company undertakes, in this case, to inform it of any available position of this nature.
-6.8 The parties may agree by mutual consent to end the telework situation within a sufficient period of time.
+The Company undertakes, in this case, to inform him of any available position of this nature.
+6.8 The Parties may agree by mutual consent to end the telework situation within a sufficient period of time.
 Article 7 - Mobilité
-La nature des fonctions du salarié implique son déplacement ponctuel.
-Les Parties conviennent expressément que, compte tenu de la nature de son activité et des nécessités de l'entreprise, le salarié pourrait être amenée à changer de lieu de travail, dans la zone géographique de la France métropolitaine.
+La nature des fonctions du Salarié implique son déplacement ponctuel.
+Les Parties conviennent expressément que, compte tenu de la nature de son activité et des nécessités de l'entreprise, le Salarié pourrait être amené à changer de lieu de travail, dans la zone géographique de la France métropolitaine.
 Le refus d'accepter un tel changement serait susceptible d'entraîner la rupture du contrat de travail.
-Le salarié travaillera principalement en France, mais pourra être amenée à effectuer des déplacements professionnels à l’étranger.
+Le Salarié travaillera principalement en France, mais pourra être amené à effectuer des déplacements professionnels à l’étranger.
 Article 7 – Mobility
 The nature of the Employee's duties implies his occasional travel.
-The Parties expressly agree that, given the nature of his activity and the needs of the company, the Employee may be required to change his place of work within the geographical area of metropolitan France.
+The Parties expressly agree that, given the nature of his activity and the needs of the Company, the Employee may be required to change his place of work within the geographical area of metropolitan France.
 The refusal to accept such a change may lead to the termination of the employment contract.
 The Employee will work mainly in France but may be required to travel abroad on business.
-11
 Article 8 – Non-concurrence
-Compte tenu de la position du salarié au sein de la Société et de la nature de ses fonctions, les parties conviennent d’une obligation de non-concurrence qui prendra effet à compter du jour de la cessation effective et définitive des fonctions du salarié au sein de la Société.
-Postérieurement à la cessation du contrat de travail, quelle qu’en soit la raison et quelle que soit la partie à laquelle elle serait imputable, le salarié s'interdit expressément de participer et/ou d'exercer directement ou indirectement ou par personne interposée, toute activité créée ou en voie de création susceptible de concurrencer les activités de la Société.
-Les activités suivantes sont considérées comme susceptibles de concurrencer celles de la Société : - Développement et commercialisation d’installations de production d’énergie solaire, L’obligation de non-concurrence est limitée : - au territoire de la France métropolitaine, - à une période d’un (1) an à compter du jour de la cessation effective des fonctions du Salarié au sein de la Société.
-En contrepartie de cette obligation de non-concurrence, la Société s’engage à verser au salarié, jusqu’à la fin de la période de non-concurrence, une indemnité mensuelle de non-concurrence d’un montant égal à 25% de la rémunération mensuelle brute moyenne (variables éventuels inclus) perçue par le salarié au cours des douze mois qui
 Article 8 – Non-competition
-Given the Employee's position within the Company and the nature of his duties, the parties agree to a non-competition obligation that will take effect as of the date of the effective and definitive termination of the Employee's duties within the Company.
-After the termination of the employment contract, regardless the reason and the party having taking the initiative for the termination, the Employee is expressly prohibited from participating in and/or exercising directly or indirectly or through an intermediary, any activity created or in the process of being created that is likely to compete with the Company's activities.
+12
+Compte tenu de la position du Salarié au sein de la Société et de la nature de ses fonctions, les Parties conviennent d’une obligation de non-concurrence qui prendra effet à compter du jour de la cessation effective et définitive des fonctions du Salarié au sein de la Société.
+Postérieurement à la cessation du contrat de travail, quelle qu’en soit la raison et quelle que soit la Partie à laquelle elle serait imputable, le Salarié s'interdit expressément de participer et/ou d'exercer directement ou indirectement ou par personne interposée, toute activité créée ou en voie de création susceptible de concurrencer les activités de la Société.
+Les activités suivantes sont considérées comme susceptibles de concurrencer celles de la Société : - Développement et commercialisation d’installations de production d’énergie solaire, L’obligation de non-concurrence est limitée : - au territoire de la France métropolitaine, - à une période d’un (1) an à compter du jour de la cessation effective des fonctions du Salarié au sein de la Société.
+En contrepartie de cette obligation de non-concurrence, la Société s’engage à verser au Salarié, jusqu’à la fin de la période de non-concurrence, une indemnité mensuelle de non-concurrence d’un montant égal à 25% de la rémunération mensuelle brute moyenne (variables éventuels inclus) perçue par le Salarié au cours des douze mois qui précèdent la notification de la rupture du contrat de travail.
+Dans l’hypothèse où le Salarié retrouverait un nouvel emploi dans une entreprise non-concurrente avant l’expiration de la période
+Given the Employee's position within the Company and the nature of his duties, the Parties agree to a non-competition obligation that will take effect as of the date of the effective and definitive termination of the Employee's duties within the Company.
+After the termination of the employment contract, regardless the reason and the Party having taking the initiative for the termination, the Employee is expressly prohibited from participating in and/or exercising directly or indirectly or through an intermediary, any activity created or in the process of being created that is likely to compete with the Company's activities.
 The following activities are considered likely to compete with those of the Company:
 - Development and commercialization of solar energy production facilities,
-The non-competition obligation is limited
-to :
-- to the territory of metropolitan France,
-- to a period of one (1) year from the date of the effective termination of the Employee's duties within the Company.
-In consideration of this non-competition obligation, the Company undertakes to pay the Employee, until the end of the non-competition period, a monthly non-competition indemnity equal to 25% of the average gross monthly remuneration (including any variables) received by the Employee during the twelve months
-12
-précèdent la notification de la rupture du contrat de travail.
-Dans l’hypothèse où le salarié retrouverait un nouvel emploi dans une entreprise non-concurrente avant l’expiration de la période de non-concurrence de un (1) an, l’indemnité mensuelle de non-concurrence serait réduite à 15% de la rémunération mensuelle brute moyenne (variables éventuels inclus) perçue par le salarié au cours des douze qui précèdent la rupture du contrat de travail.
-A cet égard, le salarié s’engage à faire part à la Société, par lettre recommandée avec accusé de réception, de toute nouvelle embauche et ce, dans un délai de 48 heures à compter de la confirmation d’embauche par le nouvel employeur.
-Dans tous les cas, et pendant toute la durée de l’interdiction de concurrence, la Société se réserve expressément le droit de demander au salarié de justifier de sa situation. Le salarié devra, sans délai, envoyer à la Société, tout document de nature à justifier de sa situation. A défaut, la Société se réserve expressément le droit de suspendre le versement de l’indemnité de non-concurrence jusqu’à obtention des documents justificatifs sollicités.
-La Société se réserve le droit de libérer le salarié de son obligation de non-concurrence à tout moment de l’exécution du contrat de travail ou lors de sa cessation. Dans le cadre de la rupture du contrat de travail, la levée de l’obligation de non-concurrence sera notifiée par lettre recommandée avec accusé de réception envoyée dans un délai de quinze [15] jours à compter de la date de la notification de la rupture du présent contrat et au plus tard la veille du départ effectif du salarié.
-En cas de découverte d’une violation de la clause de non-concurrence, le salarié encourt
-preceding the notification of the termination of the employment contract.
-In the event that the Employee finds a new job in a non-competitive company before the expiry of the one (1) year non-competition period, the monthly non-competition indemnity will be reduced to 15% of the average gross monthly remuneration (including variables) received by the Employee during the twelve (12) months preceding the termination of the employment contract.
+The non-competition obligation is limited :
+- to the territory of metropolitan France, - to a period of one (1) year from the date of the effective termination of the Employee's duties within the Company.
+In consideration of this non-competition obligation, the Company undertakes to pay the Employee, until the end of the non-competition period, a monthly non-competition indemnity equal to 25% of the average gross monthly remuneration (including any variables) received by the Employee during the twelve months preceding the notification of the termination of the employment contract.
+In the event that the Employee finds a new job in a non-competitive company before the expiry of the one (1) year non-competition
+13
+de non-concurrence de un (1) an, l’indemnité mensuelle de non-concurrence serait réduite à 15% de la rémunération mensuelle brute moyenne (variables éventuels inclus) perçue par le Salarié au cours des douze mois qui précèdent la rupture du contrat de travail.
+A cet égard, le Salarié s’engage à faire part à la Société, par lettre recommandée avec accusé de réception, de toute nouvelle embauche et ce, dans un délai de 48 heures à compter de la confirmation d’embauche par le nouvel employeur.
+Dans tous les cas, et pendant toute la durée de l’interdiction de concurrence, la Société se réserve expressément le droit de demander au Salarié de justifier de sa situation. Le Salarié devra, sans délai, envoyer à la Société, tout document de nature à justifier de sa situation. A défaut, la Société se réserve expressément le droit de suspendre le versement de l’indemnité de non-concurrence jusqu’à l’obtention des documents justificatifs sollicités.
+La Société se réserve le droit de libérer le Salarié de son obligation de non-concurrence à tout moment de l’exécution du contrat de travail ou lors de sa cessation. Dans le cadre de la rupture du contrat de travail, la levée de l’obligation de non-concurrence sera notifiée par lettre recommandée avec accusé de réception envoyée dans un délai de quinze [15] jours à compter de la date de la notification de la rupture du présent contrat et au plus tard la veille du départ effectif du Salarié.
+En cas de découverte d’une violation de la clause de non-concurrence, le Salarié encourt une sanction financière de 5.000 euros au profit de la Société.
+En sus de ce montant, le Salarié sera redevable de la somme de 1.000 euros par jour de violation de la clause de non-
+period, the monthly non-competition indemnity will be reduced to 15% of the average gross monthly remuneration (including variables) received by the Employee during the twelve (12) months preceding the termination of the employment contract.
 In this respect, the Employee undertakes to inform the Company, by registered letter with acknowledgement of receipt, of any new recruitment within 48 hours of confirmation of recruitment by the new employer.
 In all cases, and for the duration of the prohibition of competition, the Company expressly reserves the right to ask the Employee to justify his situation. The Employee must, without delay, send the Company any document that may justify his situation. Failing this, the Company expressly reserves the right to suspend payment of the non-competition indemnity until the requested supporting documents are obtained.
 The Company reserves the right to release the Employee from his non-competition obligation at any time during the performance of the employment contract or upon its termination. In the context of the termination of the employment contract, the lifting of the non-competition obligation shall be notified by registered letter with acknowledgement of receipt sent within fifteen [15] days from the date of notification of the termination of this contract and no later than the day before the Employee's effective departure.
-13
-une sanction financière de 5.000 euros au profit de la Société.
-En sus de ce montant, le salarié sera redevable de la somme de 1.000 euros par jour de violation de la clause de non-concurrence à compter du moment où ladite violation a été révélée.
-Cette somme ne se substitue pas à d’éventuelles demandes additionnelles de dommages-intérêts ou de cessation d’activité concurrentielle formulées à l’égard du salarié fautif et, le cas échéant, du nouvel employeur.
-En tout état de cause, la Société sera libérée de son obligation de verser la contrepartie financière.
 In the event of discovery of a breach of the non-competition clause, the Employee shall incur a financial penalty of 5,000 euros to the benefit of the Company.
+14
+concurrence à compter du moment où ladite violation a été révélée.
+Cette somme ne se substitue pas à d’éventuelles demandes additionnelles de dommages-intérêts ou de cessation d’activité concurrentielle formulées à l’égard du Salarié fautif et, le cas échéant, du nouvel employeur.
+En tout état de cause, la Société sera libérée de son obligation de verser la contrepartie financière.
 In addition to this amount, the Employee shall be liable for the sum of €1,000 for each day of breach of the non-competition clause from the moment the breach was revealed.
 This sum shall not replace any additional claims for damages or for the cessation of competitive activity made against the Employee at fault and, if applicable, against the new employer.
 In any event, the Company shall be released from its obligation to pay the financial consideration.
 Article 9 - Avantages sociaux
-Le salarié bénéficiera des avantages sociaux consentis au personnel de sa catégorie, notamment en ce qui concerne les régimes de retraite et de prévoyance complémentaires en vigueur au sein de la Société
+Le Salarié bénéficiera des avantages sociaux consentis au personnel de sa catégorie, notamment en ce qui concerne les régimes de retraite et de prévoyance complémentaires en vigueur au sein de la Société
 La modification éventuelle des régimes sociaux ne constituera pas une modification d’un élément essentiel du présent contrat de travail.
 Article 9 – Employee benefits
 The Employee will benefit from the social advantages granted to employees in his category, in particular with regard to the pension and supplementary provident schemes in force within the Company
 Any change in social security schemes shall not constitute a change to an essential element of this employment contract.
 Article 10 - Absence
-En cas de maladie ou d'accident l’empêchant d'exercer ses fonctions, en tout ou partie, le salarié s'engage à en aviser la Société immédiatement et à le lui confirmer par écrit en lui adressant, dans les quarante-huit heures du premier jour de l’indisponibilité, un certificat médical.
+En cas de maladie ou d'accident l’empêchant d'exercer ses fonctions, en tout ou partie, le Salarié s'engage à en aviser la Société immédiatement et à le lui confirmer par écrit en lui adressant, dans les quarante-huit heures du premier jour de l’indisponibilité, un certificat médical.
 Article 10 - Absence
 In the event of any illness or accident which shall prevent the Employee from carrying out of his duties, in part or in full, the Employee undertakes to immediately notify the Company and provide it within forty-eight hours with a medical certificate justifying his absence.
-14
 Article 11 - Congés payés
-Le salarié aura droit aux congés payés prévus par les dispositions du Code du Travail et de la Convention Collective.
-Le salarié prendra ses vacances aux dates convenues préalablement avec la Société.
+Le Salarié aura droit aux congés payés prévus par les dispositions du Code du Travail et de la Convention Collective.
 Article 11 – Paid vacation
 The Employee is entitled to paid vacation as determined by the provisions of the Labour Code and the Collective Bargaining Agreement.
+15
+Le Salarié prendra ses vacances aux dates convenues préalablement avec la Société.
 The Employee will take his holidays on dates previously agreed with the Company.
 Article 12 - Frais professionnels
-Les frais professionnels engagés par le salarié dans l'exercice de ses fonctions seront remboursés par la Société sur présentation de pièces justificatives et conformément à la politique actuelle et future de la Société en matière de remboursement de frais.
+Les frais professionnels engagés par le Salarié dans l'exercice de ses fonctions seront remboursés par la Société sur présentation de pièces justificatives et conformément à la politique actuelle et future de la Société en matière de remboursement de frais.
 Les frais professionnels devront être exposés dans l'intérêt de la Société et devront correspondre à des montants raisonnables.
 Article 12 – Professional expenses
 The professional expenses incurred by the Employee in the performance of his duties shall be reimbursed by the Company upon presentation of supporting documents and in accordance with the Company’s current and future policy.
 The professional expenses shall be incurred in the interest of the Company and shall not exceed a reasonable amount.
 Article 13 - Exclusivité
-Le salarié s’engage à consacrer la totalité de son activité professionnelle aux affaires de la Société.
-Elle ne pourra, par conséquent, avoir aucune autre activité professionnelle, même non susceptible de concurrencer les activités de la Société sans l’accord de cette dernière.
+Le Salarié s’engage à consacrer la totalité de son activité professionnelle aux affaires de la Société.
+Il ne pourra, par conséquent, avoir aucune autre activité professionnelle, même non susceptible de concurrencer les activités de la Société sans l’accord de cette dernière.
 Tout manquement à cette obligation constitue une faute grave qui justifie un licenciement immédiat, sans indemnité ni préavis.
 Article 13 - Exclusivity
 The Employee shall devote all his professional activities and efforts to the Company's business.
 Accordingly, the Employee shall have no other professional activity, whether or not capable of competing with the Company’s business, without the prior written approval of the Company.
 Any breach of this obligation constitutes a serious misconduct that justifies instant dismissal without notice or compensation.
 Article 14 - Confidentialité
+Le Salarié s’engage à ne pas utiliser, pour son compte ou celui de tiers, de quelque manière que ce soit, les documents ou données générées de toute nature appartenant à la Société ou à toute société du Groupe ayant un caractère confidentiel.
 Article 14 – Confidentiality
-15
-Le salarié s’engage à ne pas utiliser, pour son compte ou celui de tiers, de quelque manière que ce soit, les documents ou données générées de toute nature appartenant à la Société ou à toute société du Groupe ayant un caractère confidentiel.
-Le salarié s’engage à ne pas laisser des tiers non autorisés à prendre connaissance de tels documents ou données et à les restituer (ainsi que toute copie ou reproduction, quel qu’en soit le support) spontanément dès que la demande lui en est faite et, en tout état de cause, à l’expiration du présent contrat.
-Le salarié s’engage formellement, tant pendant la durée du présent contrat qu’après sa cessation, quel que soit le motif de la rupture et sans limitation de durée, à conserver la discrétion la plus absolue à l’égard des tiers sur l’ensemble des renseignements/données concernant la Société ou le Groupe qu’elle pourrait recueillir à l’occasion de ses fonctions ou du fait de sa présence au sein de la Société.
-The Employee undertakes not to use, for herself or for any third party, in any manner, documents or created data of any nature communicated to his by the Company or the Group which are confidential in nature and which may be in his possession.
-The Employee undertakes not to allow unauthorized third parties to gain knowledge about them and to return them (in addition to any copy or reproduction, whatever the material where it be saved) without delay and at any request and in any case at the termination of the employment contract.
-The Employee formally undertakes during the employment contract and after its termination, whatever the reason for the termination and without time limitation, to conserve the most absolute discretion with regard to third parties of all the information/data which are confidential in nature concerning the Company or the Group and which she may be provided with in the context of his duties or by the fact of his presence at the Company’s business.
-Article 15 - Propriété de la Société
-Le salarié s'engage à restituer, le jour même de la cessation effective de ses fonctions au sein de la Société, pour quelque cause que ce soit, tout document ou matériel appartenant à la Société.
-Article 15 – Company property
-The Employee undertakes to return, on the day she ceases to perform his functions with the Company, regardless the reason, all documents or equipment belonging to the Company as well as any other material which may have been lent (mobile phone, computer, etc ...).
-Article 16 - Rupture et préavis
-Chaque partie peut rompre à tout moment le présent contrat en respectant, sauf en cas de faute grave ou lourde ou de force majeure un préavis d’une durée conforme aux dispositions des articles L.1234-1 et L.1237-1
-Article 16 - Termination and notice period
-Either party can terminate the employment contract at any moment provided that, except in the event of serious or gross misconduct or force majeure, a notice period is given in accordance with the provisions of
+The Employee undertakes not to use, for himself or for any third party, in any manner, documents or created data of any nature communicated to his by the Company or the Group which are confidential in nature and which may be in his possession.
 16
-du Code du Travail ainsi que celles de la Convention Collective.
-Article L.1234-1 and L.1237-1 of the Labour Code and the provisions of the Collective Bargaining Agreement.
+Le Salarié s’engage à ne pas laisser des tiers non autorisés à prendre connaissance de tels documents ou données et à les restituer (ainsi que toute copie ou reproduction, quel qu’en soit le support) spontanément dès que la demande lui en est faite et, en tout état de cause, à l’expiration du présent contrat.
+Le Salarié s’engage formellement, tant pendant la durée du présent contrat qu’après sa cessation, quel que soit le motif de la rupture et sans limitation de durée, à conserver la discrétion la plus absolue à l’égard des tiers sur l’ensemble des renseignements/données concernant la Société ou le Groupe qu’elle pourrait recueillir à l’occasion de ses fonctions ou du fait de sa présence au sein de la Société.
+The Employee undertakes not to allow unauthorized third parties to gain knowledge about them and to return them (in addition to any copy or reproduction, whatever the material where it be saved) without delay and at any request and in any case at the termination of the employment contract.
+The Employee formally undertakes during the employment contract and after its termination, whatever the reason for the termination and without time limitation, to conserve the most absolute discretion with regard to third parties of all the information/data which are confidential in nature concerning the Company or the Group and which he may be provided with in the context of his duties or by the fact of his presence at the Company’s business.
+Article 15 - Propriété de la Société
+Le Salarié s'engage à restituer, le jour même de la cessation effective de ses fonctions au sein de la Société, pour quelque cause que ce soit, tout document ou matériel appartenant à la Société.
+Article 15 – Company property
+The Employee undertakes to return, on the day he ceases to perform his functions with the Company, regardless the reason, all documents or equipment belonging to the Company as well as any other material which may have been lent (mobile phone, computer, etc ...).
+Article 16 - Rupture et préavis
+Chaque Partie peut rompre à tout moment le présent contrat en respectant, sauf en cas de faute grave ou lourde ou de force majeure, un préavis d’une durée conforme aux dispositions des articles L.1234-1 et L.1237-1 du Code du Travail ainsi que celles de la Convention Collective.
+Article 16 - Termination and notice period
+Either party can terminate the employment contract at any moment provided that, except in the event of serious or gross misconduct or force majeure, a notice period is given in accordance with the provisions of Article L.1234-1 and L.1237-1 of the Labour Code and the provisions of the Collective Bargaining Agreement.
 Article 17 - Dispositions diverses
-La Société et le salarié reconnaissent que le présent contrat constitue l'intégralité de leur accord.
+Article 17- Miscellaneous
+17
+La Société et le Salarié reconnaissent que le présent contrat constitue l'intégralité de leur accord.
 Toute modification apportée au présent contrat devra faire l'objet d'un écrit dûment signé par les parties.
 Le présent contrat est soumis à la loi française et doit être interprété selon la loi française.
 En cas de difficulté d’interprétation, la version française du présent contrat fera foi.
 Le présent contrat entrera en vigueur à la date de sa signature.
-Article 17- Miscellaneous
 The Company and the Employee hereby acknowledge that the employment contract constitutes the entire agreement.
 Any modification, amendment or rider must be subject of a written agreement duly signed by the parties.
 The employment contract is subject to and shall be interpreted under French Law.
@@ -306,8 +328,8 @@ In case of dispute, only the French version of the employment contract shall be 
 The employment contract shall enter into force at the date of its signature.
 Fait à Paris, le 16 Janvier 2023
 Done in Paris, on January 16th 2023
-Signature du salarié/ employee *
-Signature représentant/ representative DVP SOLAR FRANCE*
+Signature du Salarié/ Employee *
+Signature représentant légal/ Legal Representative DVP SOLAR FRANCE*
 * Signatures précédées de la mention manuscrite/
 Signatures preceded by the handwritten words
 « lu et approuvé »
